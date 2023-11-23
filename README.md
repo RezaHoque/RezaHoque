@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RezaHoque
 - 👀 I’m a software developer and write code for living. My skills are mostly on c#/.Net but not limited to those only.
-- 🌱 I’m very much enthusiasts on Python/Django and try to explore those on my free time.
-- 💞️ I love taking photographs.
+- 🌱 I’m very much enthusiasts on Python/Django, DevOp tech like Docker, Terraform and try to explore those on my free time.
+- 💞️ I am a husband and father of two. I love taking photographs.
 
 
 <!---
