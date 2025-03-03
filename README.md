@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RezaHoque
 - 👀 I’m a software developer and write code for living. My skills are mostly on Sitecore, c#/.Net, Web API but not limited to those only.
-- 🌱 I’m very much enthusiasts on Python/Django, DevOp tech like Docker, Terraform and AI. I try to explore those on my free time.
+- 🌱 I’m very much enthusiasts on Python/Django and React native.
 - 💞️ I am a husband and father of two. I love taking photographs.
 
 
